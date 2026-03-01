@@ -1,3 +1,3 @@
 build/
-*.pyc
-*.so
+src/pylikwid.egg-info/
+src/pylikwid/__pycache__/

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "pylikwid"
+version = "0.4.2"
+authors = [
+  { name = "Thomas Roehl", email = "thomas.roehl@googlemail.com" }
+]
+description = "A Python module to access the function of the LIKWID library"
+license = { file = "LICENSE" }
+keywords = ["hpc", "performance", "benchmark", "analysis"]
+
+
+[project.urls]
+official = "https://github.com/RRZE-HPC/pylikwid"
+fork = "https://github.com/FattiMei/pylikwid"
