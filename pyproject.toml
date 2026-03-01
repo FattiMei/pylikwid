@@ -10,8 +10,19 @@ authors = [
   { name = "Thomas Roehl", email = "thomas.roehl@googlemail.com" }
 ]
 description = "A Python module to access the function of the LIKWID library"
+readme = "README.md"
 license = { file = "LICENSE" }
 keywords = ["hpc", "performance", "benchmark", "analysis"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Science/Research",
+  "Topic :: Scientific/Engineering",
+  "Topic :: Software Development",
+  "Topic :: Utilities",
+  "License :: OSI Approved :: GNU General Public License v2 (GPLv2)",
+  "Programming Language :: Python :: 3",
+]
 
 
 [project.urls]
